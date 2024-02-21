@@ -12,7 +12,7 @@ git clone https://github.com/[yourusername]/NATL-DS-021924.git
 
 3. Add the `/flatiron-school/` version as the `upstream` (to pull future changes)
 ```
-git remote add upstream https://github.com/flatiron-school/NATL-DS-021922.git
+git remote add upstream https://github.com/flatiron-school/NATL-DS-021924.git
 ```
 
 4. You can make changes to the notebooks now! Remember to push your changes to your forked version of the repo (to put your local changes up online):
